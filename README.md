@@ -23,34 +23,8 @@ The project pairs a complete, production-quality **design system** with a
 
 ---
 
-## 📸 Screenshots
-
-### 🖥️ Emergency Command Center (Web)
-
-<p align="center">
-  <img src="docs/screenshots/admin-dashboard.png" alt="EarthGuard AI admin dashboard overview" width="900">
-</p>
-
-### 📱 Citizen Mobile App
-
-<table align="center">
-  <tr>
-    <td align="center"><img src="docs/screenshots/mobile-home.png" alt="Home screen with area risk score" width="260"></td>
-    <td align="center"><img src="docs/screenshots/mobile-map.png" alt="Disaster map with severity markers" width="260"></td>
-    <td align="center"><img src="docs/screenshots/mobile-sos.png" alt="Emergency SOS screen" width="260"></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Home</b><br>Area risk score &amp; live incidents</td>
-    <td align="center"><b>Disaster Map</b><br>Severity markers across Pakistan</td>
-    <td align="center"><b>Emergency SOS</b><br>Hold-to-confirm dispatch</td>
-  </tr>
-</table>
-
----
-
 ## 📑 Table of Contents
 
-- [Screenshots](#-screenshots)
 - [The Problem](#-the-problem)
 - [The Solution](#-the-solution)
 - [Key Features](#-key-features)
@@ -319,7 +293,6 @@ TERRAGUARD_PK/
 ├── supabase/
 │   └── schema.sql               # tables, RLS, triggers, realtime, seed
 ├── docs/
-│   ├── screenshots/             # README images
 │   ├── UI_UX_GUIDELINES.md
 │   ├── PHASE_1_PROGRESS.md
 │   └── SUPABASE_SETUP.md
